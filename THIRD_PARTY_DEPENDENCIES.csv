@@ -1,0 +1,8 @@
+﻿package,version,declared_license,evidence
+.NET / ASP.NET Core / WPF,10.0,MIT / distribution notices,SDK/shared framework; no framework binaries vendored
+Microsoft.Data.Sqlite.Core,10.0.0,MIT,"NuGet nuspec; restored, not vendored"
+SQLite,3.53.4,Public Domain (LICENSE.txt reviewed),Restored package LICENSE.txt: SQLite is Public Domain; https://sqlite.org/copyright.html
+SQLitePCLRaw.bundle_e_sqlite3,3.0.5,Apache-2.0,"NuGet nuspec; restored, not vendored"
+SQLitePCLRaw.config.e_sqlite3,3.0.5,Apache-2.0,"NuGet nuspec; restored, not vendored"
+SQLitePCLRaw.core,3.0.5,Apache-2.0,"NuGet nuspec; restored, not vendored"
+SQLitePCLRaw.provider.e_sqlite3,3.0.5,Apache-2.0,"NuGet nuspec; restored, not vendored"

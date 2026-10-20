@@ -1,0 +1,72 @@
+file,classification,source_commit,description
+.gitattributes,new,,New isolated demo / portfolio packaging; not original application
+.gitignore,new,,New isolated demo / portfolio packaging; not original application
+desktop/BacktestEngine.Research.Desktop.csproj,new,,New isolated demo / portfolio packaging; not original application
+desktop/packages.lock.json,new,,New isolated demo / portfolio packaging; not original application
+desktop/Program.cs,new,,New isolated demo / portfolio packaging; not original application
+desktop/ResearchChartControl.cs,adapted,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,Original palette and DrawMain OHLC/volume loop retained; remove overlay/qualification dependencies; new reduced control host and axes.
+Directory.Build.props,new,,New isolated demo / portfolio packaging; not original application
+docs/VALIDATION.md,new,,New isolated demo / portfolio packaging; not original application
+FILE_ORIGINS.csv,new,,New isolated demo / portfolio packaging; not original application
+README.md,new,,New isolated demo / portfolio packaging; not original application
+samples/synthetic.csv,new,,New isolated demo / portfolio packaging; not original application
+SOURCE_MANIFEST.json,new,,New isolated demo / portfolio packaging; not original application
+src/Cli/BacktestEngine.Cli.csproj,new,,New isolated demo / portfolio packaging; not original application
+src/Cli/packages.lock.json,new,,New isolated demo / portfolio packaging; not original application
+src/Cli/Program.cs,new,,New isolated demo / portfolio packaging; not original application
+src/Core/BacktestEngine.Demo.Core.csproj,new,,New isolated demo / portfolio packaging; not original application
+src/Core/packages.lock.json,new,,New isolated demo / portfolio packaging; not original application
+src/Core/ResearchEnums.cs,adapted,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,Extract only causal roles and modes
+src/Core/ResearchRecords.cs,adapted,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,Extract only temporal envelope and OHLC record; no schema identifier renaming
+src/Core/ResearchStore.cs,new,,New isolated demo / portfolio packaging; not original application
+src/Core/ResearchTemporalVisibilityPolicy.cs,adapted,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,Extract IsVisible and EffectiveZoneStart unchanged; narrow view options contract; exclude unrelated gallery services
+src/Core/Source/BacktestEngine.Backtesting/Execution/Accounting/SimulatedAccountingEngine.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Accounting/SimulatedAccountingIssue.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Accounting/SimulatedAccountingResult.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Accounting/SimulatedEntryCycleAccountingResult.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Accounting/SimulatedPositionState.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Costs/FeeTaxModel.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Costs/FeeTaxResult.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Costs/FeeTaxSpec.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionFillPriceSource.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionModelSpec.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionOrderLatencySpec.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionRejectReason.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionResolvedFillPriceSource.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionSimulationResult.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionSimulator.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionSlippageSpec.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/SimulatedFill.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Pipeline/OrderPlanBookProcessResult.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Pipeline/PendingIntentBook.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Pipeline/PendingIntentBookProcessResult.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Pipeline/SimulatedTradePipeline.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Pipeline/SimulatedTradePipelineResult.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Records/CompletedTradeRecord.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Records/SimulatedFillLedgerRecord.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Records/SimulatedPositionEffect.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Records/SimulatedTradeIntentKind.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Records/SimulatedTradeRecord.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Backtesting/Execution/Records/SimulatedTradeSide.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Common/ContractMarker.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Common/MarketSnapshot.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Common/ProbeTickFlags.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Common/ProbeTickSource.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Orders/ExecutionFillTimingMode.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Orders/ExecutionScheduleSpec.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Orders/OrderPlan.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Orders/OrderPlanBatchMode.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Orders/OrderSizingSpec.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Signals/MatchedTriggerCandidate.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Signals/StrategyIntent.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Signals/StrategyIntentCode.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Signals/StrategyIntentKind.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Signals/StrategyIntentSide.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Contracts/Signals/StrategyQuantityIntent.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Core/Primitives/PriceE4Math.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/Source/BacktestEngine.Core/Primitives/TaiwanStockPriceTickRule.cs,original,ee8f0c018fe2f652f0619e2d525806aafd65ecfc,
+src/Core/SyntheticReplay.cs,new,,New isolated demo / portfolio packaging; not original application
+tests/Acceptance.csproj,new,,New isolated demo / portfolio packaging; not original application
+tests/packages.lock.json,new,,New isolated demo / portfolio packaging; not original application
+tests/Program.cs,new,,New isolated demo / portfolio packaging; not original application
+THIRD_PARTY_DEPENDENCIES.csv,new,,New isolated demo / portfolio packaging; not original application

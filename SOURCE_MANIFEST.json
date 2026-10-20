@@ -1,0 +1,443 @@
+[
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Accounting/SimulatedAccountingEngine.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Accounting/SimulatedAccountingEngine.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "f1132ab7d0996c9907bb47a299662bbb375fa5ab287b649be862d1d96c842968",
+    "candidate_sha256": "f1132ab7d0996c9907bb47a299662bbb375fa5ab287b649be862d1d96c842968",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Accounting/SimulatedAccountingIssue.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Accounting/SimulatedAccountingIssue.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "7f2feb2a5841aac128aefbfe05f10dafe51864487e4bb16b36ded13bc767babe",
+    "candidate_sha256": "7f2feb2a5841aac128aefbfe05f10dafe51864487e4bb16b36ded13bc767babe",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Accounting/SimulatedAccountingResult.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Accounting/SimulatedAccountingResult.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "7f0075cdc8776feca8fdb8c3ddef57ab9f747604ffb56914780de2895517dc39",
+    "candidate_sha256": "7f0075cdc8776feca8fdb8c3ddef57ab9f747604ffb56914780de2895517dc39",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Accounting/SimulatedEntryCycleAccountingResult.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Accounting/SimulatedEntryCycleAccountingResult.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "1b82262288fc8c7b95461b929dc638e405c276976efd0aaff6c1fe10f6c65cf2",
+    "candidate_sha256": "1b82262288fc8c7b95461b929dc638e405c276976efd0aaff6c1fe10f6c65cf2",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Accounting/SimulatedPositionState.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Accounting/SimulatedPositionState.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "1f3cb18bd7ec2e530a50e01118f338411b60e785c177bb6ad4594e15177a5db6",
+    "candidate_sha256": "1f3cb18bd7ec2e530a50e01118f338411b60e785c177bb6ad4594e15177a5db6",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Costs/FeeTaxModel.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Costs/FeeTaxModel.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "8c2b8e33eb69435a9e2f65a9c89f5d35f78acf148e2a5e05540c439c6d152aef",
+    "candidate_sha256": "8c2b8e33eb69435a9e2f65a9c89f5d35f78acf148e2a5e05540c439c6d152aef",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Costs/FeeTaxResult.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Costs/FeeTaxResult.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "13cc2530e6911919a025224b1f28a0c02e8255311411539d32365f0510936430",
+    "candidate_sha256": "13cc2530e6911919a025224b1f28a0c02e8255311411539d32365f0510936430",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Costs/FeeTaxSpec.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Costs/FeeTaxSpec.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "b91e9620e5bc2fa7935554b7f74fd8426d231a71d68600beb2f034bd0825ae7c",
+    "candidate_sha256": "b91e9620e5bc2fa7935554b7f74fd8426d231a71d68600beb2f034bd0825ae7c",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionFillPriceSource.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Fills/ExecutionFillPriceSource.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "4c99018095ccebef6f1a068a338f1c446e606f08845e1e63759eb18e94292e19",
+    "candidate_sha256": "4c99018095ccebef6f1a068a338f1c446e606f08845e1e63759eb18e94292e19",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionModelSpec.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Fills/ExecutionModelSpec.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "29a883efb525b1135c95c4baf8539d6f98565f70c7136103c8e8868c3e3c5a77",
+    "candidate_sha256": "29a883efb525b1135c95c4baf8539d6f98565f70c7136103c8e8868c3e3c5a77",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionOrderLatencySpec.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Fills/ExecutionOrderLatencySpec.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "9caa34d4c5a332d9d61983146aa8f3ada2eb7ab652bad5a91e79b0d1f519db7a",
+    "candidate_sha256": "9caa34d4c5a332d9d61983146aa8f3ada2eb7ab652bad5a91e79b0d1f519db7a",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionRejectReason.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Fills/ExecutionRejectReason.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "ca8ce5ac871f2470b94d9e9f78dbae39dddbe39cf847c1ebbdeddaf770a772d9",
+    "candidate_sha256": "ca8ce5ac871f2470b94d9e9f78dbae39dddbe39cf847c1ebbdeddaf770a772d9",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionResolvedFillPriceSource.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Fills/ExecutionResolvedFillPriceSource.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "c73f81e98396a8feaabbebaca4ac2d7cd1e49ea6400e7be79f405708c6812f30",
+    "candidate_sha256": "c73f81e98396a8feaabbebaca4ac2d7cd1e49ea6400e7be79f405708c6812f30",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionSimulationResult.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Fills/ExecutionSimulationResult.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "ebede16d08ea80eec778aa4836f9c7692a3bbaa7facf23acb1175f09f90c69a1",
+    "candidate_sha256": "ebede16d08ea80eec778aa4836f9c7692a3bbaa7facf23acb1175f09f90c69a1",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionSimulator.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Fills/ExecutionSimulator.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "431d4b4860e8152ae4b9efa946954bd594ee8536a7f9897b1f15744902805c23",
+    "candidate_sha256": "431d4b4860e8152ae4b9efa946954bd594ee8536a7f9897b1f15744902805c23",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/ExecutionSlippageSpec.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Fills/ExecutionSlippageSpec.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "40c6c9166fd21111a79c021b00deac97d6337c6757d3b9972d3e412483141fd2",
+    "candidate_sha256": "40c6c9166fd21111a79c021b00deac97d6337c6757d3b9972d3e412483141fd2",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Fills/SimulatedFill.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Fills/SimulatedFill.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "573bc729e1d025a6e456161d9fb96eab37a94365319d3f14d55d3cde26fd18e7",
+    "candidate_sha256": "573bc729e1d025a6e456161d9fb96eab37a94365319d3f14d55d3cde26fd18e7",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Pipeline/OrderPlanBookProcessResult.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Pipeline/OrderPlanBookProcessResult.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "0b5c6540733e153e1bf4ffc6cc30830981c50a1e5ac9ef837f8691a53b1dc831",
+    "candidate_sha256": "0b5c6540733e153e1bf4ffc6cc30830981c50a1e5ac9ef837f8691a53b1dc831",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Pipeline/PendingIntentBook.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Pipeline/PendingIntentBook.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "ec431c7a254f1593a25e1db2f1f462150a114f6ff0cbaaec1e43b5c704e828d3",
+    "candidate_sha256": "ec431c7a254f1593a25e1db2f1f462150a114f6ff0cbaaec1e43b5c704e828d3",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Pipeline/PendingIntentBookProcessResult.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Pipeline/PendingIntentBookProcessResult.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "d1894f75545ea450f42029c60603799dcbb07ce82b86168ff17093d4da186818",
+    "candidate_sha256": "d1894f75545ea450f42029c60603799dcbb07ce82b86168ff17093d4da186818",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Pipeline/SimulatedTradePipeline.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Pipeline/SimulatedTradePipeline.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "751bf3010171b73c9f5ac8e9cd525cfe63078fa6e5ab75b2f70494da46530bc2",
+    "candidate_sha256": "751bf3010171b73c9f5ac8e9cd525cfe63078fa6e5ab75b2f70494da46530bc2",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Pipeline/SimulatedTradePipelineResult.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Pipeline/SimulatedTradePipelineResult.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "c5e2c10895cb5b4a87a05b930b90f8b830d490a5da8bbf60f79c465f7a1bdbb7",
+    "candidate_sha256": "c5e2c10895cb5b4a87a05b930b90f8b830d490a5da8bbf60f79c465f7a1bdbb7",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Records/CompletedTradeRecord.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Records/CompletedTradeRecord.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "d34f29c0ff90c4ee2ccb70334365964044cada0d1b13c72ee72e2f01eea893f4",
+    "candidate_sha256": "d34f29c0ff90c4ee2ccb70334365964044cada0d1b13c72ee72e2f01eea893f4",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Records/SimulatedFillLedgerRecord.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Records/SimulatedFillLedgerRecord.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "75c890fdf2374c8daa5824a36a5d1b9980d0126a848950cd9df859baa21a57a0",
+    "candidate_sha256": "75c890fdf2374c8daa5824a36a5d1b9980d0126a848950cd9df859baa21a57a0",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Records/SimulatedPositionEffect.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Records/SimulatedPositionEffect.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "7d6aeec653a58aee00e2d5a9ac3147fdfcad05b48e24ac0bc7f050a4bbe7336b",
+    "candidate_sha256": "7d6aeec653a58aee00e2d5a9ac3147fdfcad05b48e24ac0bc7f050a4bbe7336b",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Records/SimulatedTradeIntentKind.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Records/SimulatedTradeIntentKind.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "04d545a16d2135040e401e02b8b5f46304d3f6fa3df8630ba472c3cda58d9595",
+    "candidate_sha256": "04d545a16d2135040e401e02b8b5f46304d3f6fa3df8630ba472c3cda58d9595",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Records/SimulatedTradeRecord.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Records/SimulatedTradeRecord.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "d95835358afa6fd3b1b01eb8798b6c9dce22d32b66bcb748944ea59a5f2e17fe",
+    "candidate_sha256": "d95835358afa6fd3b1b01eb8798b6c9dce22d32b66bcb748944ea59a5f2e17fe",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Backtesting/Execution/Records/SimulatedTradeSide.cs",
+    "source_path": "BacktestEngine.Backtesting/Execution/Records/SimulatedTradeSide.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "eb2dd0f0722fbccec43edb1c6388bd018fdadc2e6ed3991ae1d1e34ef2ba888d",
+    "candidate_sha256": "eb2dd0f0722fbccec43edb1c6388bd018fdadc2e6ed3991ae1d1e34ef2ba888d",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Common/ContractMarker.cs",
+    "source_path": "BacktestEngine.Contracts/Common/ContractMarker.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "cefdccda25211bbb836afff4a2641be339a28f45465727b5fa320311a3ae38db",
+    "candidate_sha256": "cefdccda25211bbb836afff4a2641be339a28f45465727b5fa320311a3ae38db",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Common/MarketSnapshot.cs",
+    "source_path": "BacktestEngine.Contracts/Common/MarketSnapshot.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "1de4c488e9ddc8d6aa315c938d609467a31699908f38cc6d394ed9822a73adff",
+    "candidate_sha256": "1de4c488e9ddc8d6aa315c938d609467a31699908f38cc6d394ed9822a73adff",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Common/ProbeTickFlags.cs",
+    "source_path": "BacktestEngine.Contracts/Common/ProbeTickFlags.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "9b07ef519197bc92b90bebd0cd6b753ef57ff4c95ab4da120a63610aeac3d076",
+    "candidate_sha256": "9b07ef519197bc92b90bebd0cd6b753ef57ff4c95ab4da120a63610aeac3d076",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Common/ProbeTickSource.cs",
+    "source_path": "BacktestEngine.Contracts/Common/ProbeTickSource.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "7c472fdefd9cacd3631bf8e33cea526ff0e56a367382950631d57e2bd64b79bc",
+    "candidate_sha256": "7c472fdefd9cacd3631bf8e33cea526ff0e56a367382950631d57e2bd64b79bc",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Orders/ExecutionFillTimingMode.cs",
+    "source_path": "BacktestEngine.Contracts/Orders/ExecutionFillTimingMode.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "a845b14196c7b22969e62de8b4a56536805ade1f8e727c38b507f6f4a81cfff5",
+    "candidate_sha256": "a845b14196c7b22969e62de8b4a56536805ade1f8e727c38b507f6f4a81cfff5",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Orders/ExecutionScheduleSpec.cs",
+    "source_path": "BacktestEngine.Contracts/Orders/ExecutionScheduleSpec.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "18cc48961c8fce9ade16c2896f21a5615261a8517d8acb7c4d2ef84705aded7f",
+    "candidate_sha256": "18cc48961c8fce9ade16c2896f21a5615261a8517d8acb7c4d2ef84705aded7f",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Orders/OrderPlan.cs",
+    "source_path": "BacktestEngine.Contracts/Orders/OrderPlan.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "b4c78478b3373bc9c83c7d8020e41ac4900e1b999e43eb9331ecbcee5cf771af",
+    "candidate_sha256": "b4c78478b3373bc9c83c7d8020e41ac4900e1b999e43eb9331ecbcee5cf771af",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Orders/OrderPlanBatchMode.cs",
+    "source_path": "BacktestEngine.Contracts/Orders/OrderPlanBatchMode.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "b2130e7e9298cb21b9c0a9302b84de974abdbe6e0b96f010c0f37163e0033444",
+    "candidate_sha256": "b2130e7e9298cb21b9c0a9302b84de974abdbe6e0b96f010c0f37163e0033444",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Orders/OrderSizingSpec.cs",
+    "source_path": "BacktestEngine.Contracts/Orders/OrderSizingSpec.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "753579cef952b0f64af7ef9927a78713b12c9fc53b387e9f68fb704a917b53d2",
+    "candidate_sha256": "753579cef952b0f64af7ef9927a78713b12c9fc53b387e9f68fb704a917b53d2",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Signals/MatchedTriggerCandidate.cs",
+    "source_path": "BacktestEngine.Contracts/Signals/MatchedTriggerCandidate.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "ffdee0eb4dc44919423280f21185fa45cadea691e75d4aae62c87200a6f1e6e4",
+    "candidate_sha256": "ffdee0eb4dc44919423280f21185fa45cadea691e75d4aae62c87200a6f1e6e4",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Signals/StrategyIntent.cs",
+    "source_path": "BacktestEngine.Contracts/Signals/StrategyIntent.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "d565a76be5d24c6fec9419d361ef8fc6a21276fdcbda48e70abe750e7d80fb00",
+    "candidate_sha256": "d565a76be5d24c6fec9419d361ef8fc6a21276fdcbda48e70abe750e7d80fb00",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Signals/StrategyIntentCode.cs",
+    "source_path": "BacktestEngine.Contracts/Signals/StrategyIntentCode.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "1c9871fb299771b64182f2ca0d787307b29125c3f9ff20869443e75ae5368c27",
+    "candidate_sha256": "1c9871fb299771b64182f2ca0d787307b29125c3f9ff20869443e75ae5368c27",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Signals/StrategyIntentKind.cs",
+    "source_path": "BacktestEngine.Contracts/Signals/StrategyIntentKind.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "0772a2214ede60512c6f59044c80e33d8a031000cd08502277cf6aaead36300a",
+    "candidate_sha256": "0772a2214ede60512c6f59044c80e33d8a031000cd08502277cf6aaead36300a",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Signals/StrategyIntentSide.cs",
+    "source_path": "BacktestEngine.Contracts/Signals/StrategyIntentSide.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "f435c8b423466e2395062032be73e04129a4b683fc5af3c449d6a1761fe6dcf9",
+    "candidate_sha256": "f435c8b423466e2395062032be73e04129a4b683fc5af3c449d6a1761fe6dcf9",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Contracts/Signals/StrategyQuantityIntent.cs",
+    "source_path": "BacktestEngine.Contracts/Signals/StrategyQuantityIntent.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "7493fca31fdad719068f68a93dca3895d081f41fa072ddbf1049ee4d655b8443",
+    "candidate_sha256": "7493fca31fdad719068f68a93dca3895d081f41fa072ddbf1049ee4d655b8443",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Core/Primitives/PriceE4Math.cs",
+    "source_path": "BacktestEngine.Core/Primitives/PriceE4Math.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "24960069d89af515bd5b84ee53990df8878a3853cf3a37098da569832d1a8a45",
+    "candidate_sha256": "24960069d89af515bd5b84ee53990df8878a3853cf3a37098da569832d1a8a45",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/Source/BacktestEngine.Core/Primitives/TaiwanStockPriceTickRule.cs",
+    "source_path": "BacktestEngine.Core/Primitives/TaiwanStockPriceTickRule.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "f1ad49d5163bcfb5ed48b3df06180dd597689a6acc5f89f1f3dbddf4bac9633f",
+    "candidate_sha256": "f1ad49d5163bcfb5ed48b3df06180dd597689a6acc5f89f1f3dbddf4bac9633f",
+    "classification": "original",
+    "adaptation": ""
+  },
+  {
+    "file": "src/Core/ResearchRecords.cs",
+    "source_path": "BacktestEngine.Research.Contracts/ResearchRecords.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "539f12c867efedd86df78c870df7c230b294b27ad5a27a977aedc4c8a3be3b67",
+    "candidate_sha256": "e53bbe80d79cad9d3c5d7c453637d2f6751672c84a3061ce208c421a271671a5",
+    "classification": "adapted",
+    "adaptation": "Extract only temporal envelope and OHLC record; no schema identifier renaming"
+  },
+  {
+    "file": "src/Core/ResearchEnums.cs",
+    "source_path": "BacktestEngine.Research.Contracts/ResearchEnums.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "93ca09c3689d9150fe26a79e5b7674fabd73d9a9a14d3b7bbea1859a8ff32d8f",
+    "candidate_sha256": "725e8295f9f95d1323bad42d517720f74387e9015da2c018007a81813b077768",
+    "classification": "adapted",
+    "adaptation": "Extract only causal roles and modes"
+  },
+  {
+    "file": "src/Core/ResearchTemporalVisibilityPolicy.cs",
+    "source_path": "BacktestEngine.Research.Application/ResearchGalleryServices.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "ebf44558319f566f2f704d2703aba9d3427460fce2ec68d90ac24574ee6bc24c",
+    "candidate_sha256": "74b6a00693a751f98067e9363cd4fe0d584d583335b4523e2e053c6f1c0c6590",
+    "classification": "adapted",
+    "adaptation": "Extract IsVisible and EffectiveZoneStart unchanged; narrow view options contract; exclude unrelated gallery services"
+  },
+  {
+    "file": "desktop/ResearchChartControl.cs",
+    "source_path": "BacktestEngine.Research.Desktop/ResearchChartControl.cs",
+    "source_commit": "ee8f0c018fe2f652f0619e2d525806aafd65ecfc",
+    "source_sha256": "e456de7995874085f1670b4ba970760e4ca94183fb7a0e3e861c8e1a5de83cc3",
+    "candidate_sha256": "2eaf6402c12da9fff3ffc11575b03c68e786d18bf08d3c6d23d20b2b3b27776c",
+    "classification": "adapted",
+    "adaptation": "Original palette and DrawMain OHLC/volume loop retained; remove overlay/qualification dependencies; new reduced control host and axes."
+  }
+]
