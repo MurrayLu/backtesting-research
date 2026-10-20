@@ -16,9 +16,13 @@
 
 原始完整研究環境依賴未公開的本地市場資料與 SQLite 研究資料庫，本 GitHub **無法重現原始完整系統**。
 
+![原始研究工作台：Daily／60m／5m／1m 四圖](docs/images/original-application/01-research-workbench.png)
+
+原始私人研究工作台以既有本地資料呈現四週期圖表、AsOf、價格參考與研究證據；公開版仍為 Isolated Demo，畫面不代表研究已通過資格驗證。
+
 ## 公開版本：兩個可執行的精選流程
 
-> 本 Repository 為 **Isolated Demo**。Synthetic Research Workbench 是另外製作的縮減 WPF 視窗，**不是原始研究工作台介面**；沒有發布原系統截圖或影片。
+> 本 Repository 為 **Isolated Demo**。Synthetic Research Workbench 是另外製作的縮減 WPF 視窗，**不是原始研究工作台介面**；原始系統畫面另列於上方，不代表其中所有功能可在公開版執行。
 
 ```text
 Synthetic CSV → CLI Replay → Synthetic Teaching Strategy
